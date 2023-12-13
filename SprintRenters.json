@@ -1,0 +1,37 @@
+[{
+    "fname": "Rob",
+    "lname": "Thomas",
+    "Age": "56",
+    "Vehicle": "Premium SUV",
+    "isLoyaltyMember": true
+},{
+    "fname": "Cheryl",
+    "lname": "Cole",
+    "Age": "38",
+    "Vehicle": "Compact Car",
+    "isLoyaltyMember": false
+},{
+    "fname": "Robert",
+    "lname": "Plant",
+    "Age": "76",
+    "Vehicle": "Intermediate Sedan",
+    "isLoyaltyMember": true
+},{
+    "fname": "Melissa",
+    "lname": "Jefferson",
+    "Age": "35",
+    "Vehicle": "Premium SUV",
+    "isLoyaltyMember": false
+},{
+    "fname": "Alicia",
+    "lname": "Moore",
+    "Age": "65",
+    "Vehicle": "Jeep",
+    "isLoyaltyMember": true
+},{
+    "fname": "Adele",
+    "lname": "Atkinson",
+    "Age": "33",
+    "Vehicle": "Hybrid SUV",
+    "isLoyaltyMember": false
+    }]
